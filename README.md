@@ -34,8 +34,6 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **Junior Software Developer, Jarvis (Feb 2023 - present)**: Worked in an Agile/Scrum development environment and developed the product based on the agile framework guidelines. Collaborated with the development team to discuss and deliver software solutions to our customers. Gained valuable experience from working on various software development projects in a professional setting. Worked with practical technologies that are used in the industry, such as Java, Docker, PostgreSQL, Bash Script, etc.
 
-**Software Developer Intern, Poros Consulting (Feb 2022 - Jul 2022)**: Developed a web application for visualizing information about top companies. Utilized Python libraries, including Request and BeautifulSoup, to fetch data from reliable financial webpages. Effectively using commercial finance APIs to get financial news related to top companies. Designed the MySQL database schema. Created maintainable components capable of updating data in MySQL databases on a daily basis. Realized data visualization using Echarts.js and implemented backend RESTful APIs using Django.
-
 **Java Developer Intern, INFINITE, Guangzhou, China (Jun 2018 - Aug 2018)**: Contributed to the development of a job board website by building a comment module and a job description module. Designed and developed multiple RESTful APIs using Java to enable efficient communication between front-end and back-end systems. Boosted the efficiency of data retrieval by utilizing SQL to query the MySQL database and retrieve only the necessary data for front-end pages. Ensured high-quality code by utilizing JUnit for automated testing, resulting in approximately 70% test coverage and reliable functionality.
 
 
